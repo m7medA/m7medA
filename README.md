@@ -4,7 +4,7 @@
 
 📍 Cairo, Egypt  
 📧 mohammedayman2534@gmail.com  
-🔗 [Portfolio](#) | [LinkedIn](#) | [Twitter](#)
+🔗 [Portfolio](#) | [LinkedIn](#)
 
 ## 🛠️ Technical Skills
 
