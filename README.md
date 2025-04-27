@@ -1,11 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Mohammed+Ayman" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=%2C+Hello%2C+I'm+Mohammed+Ayman%2C" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/m7medA">
-    <img src="https://img.shields.io/github/followers/m7medA?style=social" alt="GitHub followers">
-  </a>
   <a href="mailto:mohammedayman2534@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red" alt="Email">
   </a>
