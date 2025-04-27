@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=%2C+Hello%2C+I'm+Mohammed+Ayman%2C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=%2C+Hello%2C+I'm+Mohammed+Ayman+%2C" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -13,10 +13,10 @@
 
 <br>
 
-<div align="center">
-  <p>🎓 Computer Science and AI Student @ Benha University</p>
-  <p>💻 Frontend Developer | JavaScript Enthusiast</p>
-  <p>🌍 Based in Cairo, Egypt</p>
+<div align="left">
+  <p>🎓 Computer Science and AI Student Benha University</p>
+  <p>💻 Frontend Developer | React.js </p>
+  <p>🌍 Cairo, Egypt</p>
 </div>
 
 <h2 align="center">🛠️ Technologies & Skills</h2>
