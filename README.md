@@ -6,7 +6,7 @@
   <a href="mailto:mohammedayman2534@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red" alt="Email">
   </a>
-  <a href="https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohammed-ayman-910706268/">
+  <a href="https://www.linkedin.com/in/mohammed-ayman-910706268">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn">
   </a>
 </div>
@@ -82,6 +82,6 @@
 
 <div align="left">
   <p>📧 Email: <a href="mailto:mohammedayman2534@gmail.com">mohammedayman2534@gmail.com</a></p>
-  <p>💼 LinkedIn: <a href="https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohammed-ayman-910706268">Connect 🤝</a></p>
+  <p>💼 LinkedIn: <a href="https://www.linkedin.com/in/mohammed-ayman-910706268">Connect 🤝</a></p>
 </div>
 
