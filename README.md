@@ -17,7 +17,6 @@
   <p>🎓 Computer Science and AI Student @ Benha University</p>
   <p>💻 Frontend Developer | React.js, TypeScript, Tailwind CSS</p>
   <p>🌍 <strong>Cairo</strong>, Egypt</p>
-  <p>📞 01280650152</p>
 </div>
 
 <!-- Professional Tools Section -->
