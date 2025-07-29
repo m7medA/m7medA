@@ -1,7 +1,7 @@
 <!-- 🚀 Moha's Intergalactic Developer Profile 🚀 -->
 <div align="center">
 
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200" alt="Cosmic coder"/>
+  <img src="https://giphy.com/gifs/ferdinandmovie-animation-xT9IgtEzprjoKE5gru" width="200" alt="Cosmic coder"/>
 
   <h1>
     <img src="https://giphy.com/gifs/ferdinandmovie-animation-xT9IgtEzprjoKE5gru" width="30px">
