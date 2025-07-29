@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200" alt="Cosmic coder"/>
 
   <h1>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+    <img src="https://giphy.com/gifs/ferdinandmovie-animation-xT9IgtEzprjoKE5gru" width="30px">
     <span style="color: #FF00FF;">MOHAMMED</span> 
     <span style="color: #00FFFF;">"MOHA"</span> 
     <span style="color: #FFFF00;">AYMAN</span>
