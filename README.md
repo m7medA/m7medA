@@ -1,7 +1,7 @@
 <!-- 🚀 Moha's Intergalactic Developer Profile 🚀 -->
 <div align="center">
 
-  <img src="https://giphy.com/gifs/ferdinandmovie-animation-xT9IgtEzprjoKE5gru" width="200" alt="Cosmic coder"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Y4cWF5Zjd5YWdoa2JpcmE4ZmhsaTBkeGp4ZDRuc2l3NjFsZDVpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgtEzprjoKE5gru/giphy.gif" width="200" alt="Cosmic coder"/>
 
   <h1>
     <img src="https://giphy.com/gifs/ferdinandmovie-animation-xT9IgtEzprjoKE5gru" width="30px">
@@ -58,55 +58,3 @@
 
 ---
 
-## 🚧 Current Galactic Mission
-
-> Crafting otherworldly UIs, optimizing pixel portals, and unleashing front-end energy across the universe. 🚀✨
-
----
-
-## 📊 GitHub Warp Drive Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&border_color=ff00ff&include_all_commits=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&border=ff00ff" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=vision-friendly-dark" width="45%" />
-</div>
-
----
-
-## 🎧 Cosmic Coding Soundtrack
-
-<p align="center">
-  <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ff00ff" alt="Spotify Now Playing" />
-</p>
-
----
-
-## 🏀 Chicago Bulls Vibes
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7TKz2XyDQjcv2zUQ/giphy.gif" width="300" alt="Chicago Bulls">
-</div>
-
----
-
-## 📡 Intergalactic Communication Channels
-
-<div align="center">
-  <a href="mailto:mohammedayman2534@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/mohammed-ayman-910706268">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="200" alt="Alien waving">
-  <h3>🚀 Ready to launch awesome projects into the coding universe! 🚀</h3>
-</div>
