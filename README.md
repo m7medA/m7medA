@@ -1,6 +1,6 @@
 <!-- Typing SVG Hero Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FFB2&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mohammed+Ayman!;Frontend+Magician+%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BB+with+React.js;Breathing+Life+into+Pixels+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FFB2&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mohammed+Ayman!;Frontend+Developer+with+React.js" alt="Typing SVG" />
 </div>
 
 <!-- Socials -->
@@ -18,7 +18,7 @@ const mohammed = {
   techStack: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
   tools: ["Git", "VS Code", "Figma", "NPM"],
   location: "Cairo, Egypt 🌍",
-  hobbies: ["Open Source 👨‍🔧", "UI Crafting 🎨", "Gaming 🎮", "Memes 😂"]
+  hobbies: ["Open Source 👨‍🔧", "UI Crafting 🎨", "Gaming 🎮"]
 };
 🧰 Tech Arsenal
 🚀 Front-End
