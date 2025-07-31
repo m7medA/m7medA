@@ -3,6 +3,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FFB2&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mohammed+Ayman;Frontend+Developer" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://media1.giphy.com/media/xT9IgtEzprjoKE5gru/giphy.gif" width="300" alt="Mind blown gif" />
+</div>
+
 <!-- Socials -->
 <p align="center">
   <a href="mailto:mohammedayman2534@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
