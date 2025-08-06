@@ -1,6 +1,6 @@
 <!-- Typing SVG Hero Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FFB2&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mohammed+Ayman;Frontend+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0d1117&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mohammed+Ayman;Frontend+Developer" alt="Typing SVG" />
 </div>
 
 <!-- Funny GIF -->
