@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=e7b249&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mohammed;and+i'm+a+Frontend+Developer" alt="Typing SVG" />
 </div>
 
 ###
@@ -18,12 +18,6 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=m7medA"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=e7b249&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mohammed;and+i'm+a+Frontend+Developer" alt="Typing SVG" />
 </div>
 
 ###
